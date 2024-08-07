@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.remove-btn {
+
+    padding: 0.5em 0.9em;
+    display: inline;
+    box-shadow: 2px 2px 5px #e8e8e8;
+}
+
+span {
+    margin-bottom: 5px;
+    /* background-color: #e8e8e8; */
+    padding: 0.5em 0.9em;
+
+}
+
+.input-container {
+    margin-bottom: 2em;
+}
+
+.check-btn {
+    margin-right: 10px;
+}
+
+ul {
+    background-color: #faf9f9ee;
+}
